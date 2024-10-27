@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co.com/DC78T3D/Whats-App-Image-2024-10-25-at-10-38-47-86b20dfd.jpg",
+    "tim": "India",
+    "type": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right spin",
+    "price": 500000,
+    "name": "Virat Kohli"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co.com/vPZjps6/Whats-App-Image-2024-10-25-at-10-38-47-88d0f4cb.jpg",
+    "tim": "South Africa",
+    "type": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Leg spin",
+    "price": 700000,
+    "name": "Kagiso Rabada"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co.com/Jm9Cy3T/Whats-App-Image-2024-10-25-at-10-38-47-89996ae0.jpg",
+    "tim": "Bangladesh",
+    "type": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right spin",
+    "price": 600000,
+    "name": "Shakib Al Hasan"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co.com/LY4rLXq/Whats-App-Image-2024-10-25-at-10-38-47-1670202e.jpg",
+    "tim": "Australia",
+    "type": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Leg spin",
+    "price": 550000,
+    "name": "Adam Zampa"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co.com/BL9tQ1s/Whats-App-Image-2024-10-25-at-10-38-47-f4eb52fb.jpg",
+    "tim": "Pakistan",
+    "type": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right spin",
+    "price": 800000,
+    "name": "Babar Azam"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co.com/6Jx3VPX/Whats-App-Image-2024-10-25-at-20-32-11-b11933cc.jpg",
+    "tim": "New Zealand",
+    "type": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Leg spin",
+    "price": 650000,
+    "name": "Mitchell Santner"
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co.com/BL9tQ1s/Whats-App-Image-2024-10-25-at-10-38-47-f4eb52fb.jpg",
+    "tim": "Pakistan",
+    "type": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right spin",
+    "price": 800000,
+    "name": "Babar Azam rej"
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co.com/6Jx3VPX/Whats-App-Image-2024-10-25-at-20-32-11-b11933cc.jpg",
+    "tim": "New Zealand",
+    "type": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Leg spin",
+    "price": 650000,
+    "name": "Mitchell Santner haer"
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co.com/BL9tQ1s/Whats-App-Image-2024-10-25-at-10-38-47-f4eb52fb.jpg",
+    "tim": "Pakistan",
+    "type": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right spin",
+    "price": 800000,
+    "name": "Babar Azam rej"
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co.com/6Jx3VPX/Whats-App-Image-2024-10-25-at-20-32-11-b11933cc.jpg",
+    "tim": "New Zealand",
+    "type": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Leg spin",
+    "price": 650000,
+    "name": "Mitchell Santner haer"
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co.com/6Jx3VPX/Whats-App-Image-2024-10-25-at-20-32-11-b11933cc.jpg",
+    "tim": "New Zealand",
+    "type": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Leg spin",
+    "price": 650000,
+    "name": "Mitchell Santner haer"
+  }
+]
